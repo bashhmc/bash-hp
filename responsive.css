@@ -1,0 +1,129 @@
+/* smartphone medeia query */
+@media (max-width:670px) {
+/*header　menu-bars */
+  .headerleft{
+    text-align: center;
+  }
+
+  .icon-arrow{
+    padding-left: 10px;
+  }
+
+  .icon{
+    padding-left: 10px;
+  }
+/*ハンバーガーメニュー --------------------------------------------------------*/
+  .menu-list1{
+    display:none ;
+  }
+
+/*Home ----------------------------------------------------------------------*/
+  .Home{
+    padding-top:20px;
+  }
+/*Info ----------------------------------------------------------------------*/
+  .Info{
+    height:1900px;
+  }
+
+.menu-logo h1{
+  margin-left: 15px;
+}
+
+  .bashinfo p{
+    text-align: center;
+  }
+
+  .bashinfo img{
+    width:90%;
+    margin: auto;
+  }
+
+  .css-br{
+    white-space:pre;
+  }
+/* members */
+.members{
+  text-align: center;
+  top:650px;
+  right: auto;
+  float: left;
+}
+
+.members img{
+  width:80%;
+  margin-left: 12.5px;
+  margin-right: 12.5px;
+}
+
+.member p{
+  position: absolute;
+  bottom: -18px;
+  left: 55px;
+  color: white;
+  font-size: 30px;
+}
+
+.member a{
+  color: white;
+}
+
+/*Movie */
+.Movie{
+  height: 450px;
+}
+
+.Movie-YouTube{
+  width:90%;
+  height: 300px;
+}
+
+/*Goods */
+.Goods{
+  height: 500px;
+}
+
+.cd{
+  text-align: center;
+}
+
+ .cdpicture{
+   width:60%;
+   padding-left: initial;
+ }
+
+ .cd-p{
+   text-align: center;
+   float: initial;
+   padding-top: 40px;
+
+ }
+
+ .cd-p p{
+   font-size:15px;
+   padding-right: initial;
+ }
+
+/* contact--------------------- */
+
+ .contact p{
+   font-size: 15px;
+   color: white;
+   margin-left: 50px;
+ }
+
+}
+
+
+/*@media all and (max-width:1000px)  {
+  .menu-list a{
+    width:5%;
+  }
+
+  .bashinfo{
+    text-align: center;
+  }
+
+} */
+
+/* */
