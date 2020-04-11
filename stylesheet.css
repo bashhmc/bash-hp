@@ -103,6 +103,7 @@ a:hover{
   .conte{
     background-color: rgba(255, 255, 255, 0.9);
     width: 105px;
+    transition: .3s ease-in-out;
     transform: translateX(105px);
     font-weight:bold;
   }
