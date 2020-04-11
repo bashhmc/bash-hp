@@ -82,6 +82,52 @@ a:hover{
   background-color: initial;
 }
 
+/* smartphone ver css */
+  .smapho-menu{
+    float: right;
+    margin-right: -25px;
+    display: none;
+  }
+
+  #input{
+    display: none;
+  }
+
+  .line{
+    width:50px;
+    height: 7px;
+    background-color: white;
+    margin: 10px;
+  }
+
+  .conte{
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 105px;
+    transform: translateX(105px);
+    font-weight:bold;
+  }
+
+  .conte ul{
+    list-style: none;
+    padding:0px 25px;
+    margin: 0px;
+  }
+
+  .smamenu{
+    height: 124%;
+    z-index: 10;
+  }
+
+  .conte a{
+    color:black
+  }
+
+  #input:checked ~.conte{
+    transform: translate(-25px);
+  }
+
+
+
 /* スライド ------------------------------------------------------------------*/
 .slider{
     margin:60px auto;
