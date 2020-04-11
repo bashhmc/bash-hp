@@ -1,6 +1,10 @@
 /* smartphone medeia query */
 @media (max-width:670px) {
 /*header　menu-bars */
+  .header-logo{
+    padding-left: 15px;
+  }
+  
   .headerleft{
     text-align: center;
   }
