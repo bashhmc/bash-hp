@@ -118,8 +118,19 @@ a:hover{
     z-index: 10;
   }
 
-  .smamenu li{
+    .smamenu li{
     padding-top: 15px;
+  }
+
+  .smamenu li:after {
+  content:"";
+  display:block;
+  height:3px;
+  width:100%;
+  background: -webkit-linear-gradient(left, #000000, rgba(255,255,255,0));
+  background:-moz-linear-gradient(left, #000000, rgba(255,255,255,0));
+  background:linear-gradient(to right, #000000, rgba(255,255,255,0));
+  border-radius: 40px;
   }
 
   .conte a{
