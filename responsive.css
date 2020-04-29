@@ -2,7 +2,7 @@
 @media (max-width:670px) {
 /*header　menu-bars */
   .header-logo{
-    padding-left: 15px;
+    padding-left: 202px;
   }
 
   .headerleft{
@@ -10,11 +10,11 @@
   }
 
   .icon-arrow{
-    padding-left: 10px;
+    padding-left: 25px;
   }
 
   .icon{
-    padding-left: 10px;
+    padding-left: 25px;
   }
 /*ハンバーガーメニュー --------------------------------------------------------*/
   .menu-list{
