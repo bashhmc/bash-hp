@@ -112,6 +112,9 @@
  }
 
 /* contact--------------------- */
+.comtact{
+   height: 300px;
+ }
 
  .contact p{
    font-size: 15px;
@@ -119,6 +122,9 @@
    margin-left: 50px;
  }
 
+ .form{
+   margin: auto;
+ }
 }
 
 
