@@ -5,7 +5,7 @@ $(function(){
     $('html,body').animate({'scrollTop':position},500);
   });
 
-  //bash 写真を4枚自動で流しっぱにするモーションをつける
+  //bash 写真を4枚自動で流しっぱにするモーション
   $('.slider').slick({
     autoplay:true,
     autoplaySpeed:5000,
@@ -14,8 +14,4 @@ $(function(){
 
   // bashmemberの写真をhoverした際に、各SNSやYouTubeチャンネル情報
   //を表示させて誘導する。
-
-  //ハンバーガーメニュー
-
-
  });
