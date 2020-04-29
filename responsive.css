@@ -161,6 +161,20 @@
  }
 }
 
+@media (max-width:380px) {
+
+ .members{
+   margin-top: -120px;
+ }
+
+ .Info{
+   height: 1500px;
+ }
+
+ .Movie{
+   height: 350px;
+ }
+}
 
 /*@media all and (max-width:1000px)  {
   .menu-list a{
