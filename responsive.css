@@ -4,7 +4,7 @@
   .header-logo{
     padding-left: 15px;
   }
-  
+
   .headerleft{
     text-align: center;
   }
@@ -30,7 +30,7 @@
   }
 /*Info ----------------------------------------------------------------------*/
   .Info{
-    height:1650px;
+    height:1800px;
   }
 
 .menu-logo h1{
@@ -65,8 +65,8 @@
 
 .member p{
   position: absolute;
-  bottom: -18px;
-  left: 55px;
+  bottom: -100%;
+  left: 25%;
   color: white;
   font-size: 30px;
 }
@@ -87,7 +87,7 @@
 
 /*Goods */
 .Goods{
-  height: 500px;
+  height: 600px;
 }
 
 .cd{
@@ -112,7 +112,8 @@
  }
 
 /* contact--------------------- */
-.contact{
+
+ .contact{
    height: 500px;
  }
 
@@ -123,8 +124,9 @@
  }
 
  .form{
-   padding-left:50px;
+   padding-left: 20px;
  }
+
 }
 
 
@@ -132,11 +134,10 @@
   .menu-list a{
     width:5%;
   }
-
   .bashinfo{
     text-align: center;
   }
-
 } */
 
 /* */
+
