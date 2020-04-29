@@ -129,6 +129,38 @@
 
 }
 
+@media (max-width:480px) {
+
+ .bashinfo p{
+   margin: 0;
+ }
+
+  .menu-logo{
+    padding-top: 0px;
+  }
+
+.members{
+  margin-top: -100px;
+}
+
+.member p{
+  position: absolute;
+  left: 15%;
+}
+
+.Info{
+  height: 1600px;
+}
+
+.Goods{
+  height: 550px;
+}
+
+ .form{
+   margin-left: 5%;
+ }
+}
+
 
 /*@media all and (max-width:1000px)  {
   .menu-list a{
