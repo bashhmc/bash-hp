@@ -195,7 +195,7 @@ border-radius: 20px;
 }
 
 .Info{
-  height: 600px;
+  height: 550px;
   position: relative;
 }
 
@@ -235,7 +235,7 @@ border-radius: 20px;
 
 .member p{
   position: absolute;
-  bottom:18px;
+  bottom:-3px;
   left: 90px;
   color: white;
   z-index: 8;
@@ -262,7 +262,7 @@ border-radius: 20px;
 
 /*Movie--------------------------------------------------------------------- */
 .Movie{
-  height: 650px;
+  height: 600px;
 }
 
 .Movie-YouTube{
@@ -297,6 +297,7 @@ border-radius: 20px;
 }
 
 /*Contact--------------------------------------------------------------------- */
+
 .contact{
   height: 500px;
 }
@@ -308,7 +309,7 @@ border-radius: 20px;
 }
 
 .form{
-  margin-left: 100px;
+  margin-left: 80px;
 }
 
 /*footer--------------------------------------------------------------------- */
@@ -322,3 +323,4 @@ border-radius: 20px;
 }
 
 /* liveabout---------------------------------------------------------------- */
+
